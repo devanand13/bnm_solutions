@@ -1,0 +1,78 @@
+{
+  "Header": {
+    "title": "Empower Your Business with Intelligent Tech Solutions!",
+    "paragraph": "🚀From stunning websites to cutting-edge AI, we transform your vision into reality. Whether it's seamless database migrations, smart chatbots, or tailored HR and business solutions, we’ve got you covered. Ready to innovate and grow? Let’s build your future, together!"
+  },
+  "About": {
+    "paragraph": "At our core, we combine innovation, expertise, and commitment to deliver tailored solutions that drive your success. From intuitive web development to robust database systems, seamless migrations, and AI-powered tools, we ensure your business stays ahead in a competitive landscape. Our focus on quality, scalability, and customer-centricity ensures that every project is built to empower your growth. With a team of seasoned professionals and a track record of excellence, we’re not just a service provider—we’re your partner in innovation and transformation. Choose us for solutions that make an impact!",
+    "Why": [
+      "End-to-End Expertise",
+      "Tailored Solutions",
+      "Innovation at the Core",
+      "Proven Reliability"
+    ],
+    "Why2": [
+      "Seamless Integration",
+      "Customer-Centric Approach",
+      "Scalability",
+      "Competitive Pricing"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-laptop",
+      "name": "Web Development",
+      "text": "Craft stunning, user-friendly websites that capture your brand’s essence. From design to deployment, we ensure your digital presence stands out."
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "Generative AI Solutions",
+      "text": "Unlock creativity and innovation with our generative AI solutions. From content creation to automation, transform the way you work."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Database Solutions",
+      "text": "Streamline your data management with robust and secure database solutions. From setup to optimization, we handle it all for enhanced performance."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Business Solutions",
+      "text": "Empower your business with tools and strategies tailored to your goals. We provide scalable solutions to drive growth and efficiency."
+    },
+    {
+      "icon": "fa fa-weixin",
+      "name": "Chatbots",
+      "text": "Engage customers 24/7 with intelligent, conversational chatbots. Enhance user satisfaction with personalized and efficient support."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "HR Solutions",
+      "text": "Revolutionize your workforce management with our modern HR solutions. Simplify processes, improve productivity, and keep your team focused."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Binoy",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpeg",
+      "name": "Devanand",
+      "job": "Senior Developer"
+    },
+    {
+      "img": "img/team/03.jpeg",
+      "name": "Vinay",
+      "job": "Senior Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Rosanna, Melbourne, VIC",
+    "phone": "+61 425 xxxx5",
+    "email": "info@abcdcompany.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
